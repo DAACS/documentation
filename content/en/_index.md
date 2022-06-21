@@ -18,11 +18,11 @@ geekdocAnchor: false
 
 <!-- markdownlint-restore -->
 
-This site provides details on how to use the Diagnostic Assessment and Achievement of College Skills (DAACS). The site is multiple areas depending on your particular role in using DAACS.
+This site provides details on how to use the Diagnostic Assessment and Achievement of College Skills (DAACS). The site has multiple areas depending on your particular role in using DAACS.
 
 {{< button size="large" relref="/01_overview/01_overview" >}}Get Started{{< /button >}}
 
-## Feature overview
+## Select your role...
 
 {{< columns >}}
 
@@ -30,7 +30,7 @@ This site provides details on how to use the Diagnostic Assessment and Achieveme
 
 ### Academic Advisors & Coaches
 
-Academic advisors, coaches, mentors and other institutional staff who have regular contact with students are a critical component in the successful use of DAACS at the institution. This section provides resources to learn how to effectively use DAACS when working with students.
+Academic advisors, coaches, mentors and other institutional staff who have regular contact with students are a critical component for the successful use of DAACS at the institution. This section provides resources to learn how to effectively use DAACS when working with students.
 
 </a>
 
@@ -48,7 +48,7 @@ DAACS is a useful resource to integrate into your teaching. This section provide
 
 <a href="/04_technical/01_installation" class="gdoc-button__link">
 
-### Technical Details
+### Information Technologist
 
 This section provides information on how you can install a custom version of DAACS for your institution.
 
