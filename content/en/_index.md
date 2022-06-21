@@ -1,9 +1,11 @@
 ---
-title: DAACS Documentation
+title: 
 geekdocNav: false
 geekdocAlign: center
 geekdocAnchor: false
 ---
+
+<img src='/images/DAACS_Centered.png' height='150px' />
 
 <!-- markdownlint-capture -->
 <!-- markdownlint-disable MD033 -->
@@ -18,7 +20,7 @@ geekdocAnchor: false
 
 This site provides details on how to use the Diagnostic Assessment and Achievement of College Skills (DAACS). The site is multiple areas depending on your particular role in using DAACS.
 
-{{< button size="large" relref="/01_overview/01_overview" >}}Getting Started{{< /button >}}
+{{< button size="large" relref="/01_overview/01_overview" >}}Get Started{{< /button >}}
 
 ## Feature overview
 

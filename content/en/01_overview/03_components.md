@@ -1,6 +1,6 @@
 ---
-title: DAACS Components
-weight: 2
+title: Components
+weight: 3
 ---
 
 {{< toc >}}

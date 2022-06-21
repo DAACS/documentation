@@ -8,7 +8,10 @@ DAACS is a suite of open source, online assessments and supports (both technolog
 
 <!--more-->
 
-{{< toc >}}
+{{< hint type=warning icon=gdoc_fire title=Warning >}}
+DAACS is not a placement exam! The **D** in DAACS stands for <i>diagnostic</i>. It was designed to provide feedback to students and institutions and provide the resources for students to become more successful learners.
+{{< /hint >}}
 
-
-
+<center>
+<iframe src="https://player.vimeo.com/video/212145509?h=b987eec1b5" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+</center>

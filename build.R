@@ -13,13 +13,6 @@ blogdown::install_hugo(version = hugo_version,
 					   extended = TRUE,
 					   force = FALSE)
 
-# blogdown::new_site(theme = 'https://github.com/thegeeklab/hugo-geekdoc/releases/latest/download/hugo-geekdoc.tar.gz')
-
-# blogdown::new_site(dir = '.',
-# 				   theme = 'thegeeklab/hugo-geekdoc',
-# 				   install_hugo = FALSE,
-# 				   serve = FALSE)
-
 blogdown::build_site(build_rmd = TRUE)
 
 if(FALSE) { # Commands to run locally
