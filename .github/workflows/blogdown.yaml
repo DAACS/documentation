@@ -37,6 +37,7 @@ jobs:
 
       - name: Install blogdown
         run: install.packages('blogdown')
+        shell: Rscript {0}
 
       - name: Install hugo
         run: blogdown::install_hugo(version = '0.89.4', extended = TRUE)
