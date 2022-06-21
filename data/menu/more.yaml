@@ -1,0 +1,26 @@
+---
+more:
+  - name: DAACS Website
+    ref: "https://www.daacs.net"
+    external: true
+    icon: "gdoc_home"
+  - name: myDAACS
+    ref: "https://my.daacs.net"
+    external: true
+    icon: "gdoc_home"
+  - name: SRL Lab
+    ref: "https://srl.daacs.net"
+    external: true
+    icon: "gdoc_home"
+  - name: News
+    ref: "https://daacs.net/blog/"
+    external: true
+    icon: "gdoc_notification"
+  # - name: Releases
+  #   ref: "https://github.com/thegeeklab/hugo-geekdoc/releases"
+  #   external: true
+  #   icon: "gdoc_download"
+  - name: View Source
+    ref: "https://github.com/daacs/documentation"
+    external: true
+    icon: "gdoc_github"

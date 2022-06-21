@@ -1,0 +1,6 @@
+Package: placeholder
+Type: website
+Title: Does not matter.
+Version: 0.0.1
+Imports: bookdown, remotes
+Remotes: rstudio/bookdown
