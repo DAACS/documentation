@@ -1,6 +1,9 @@
 ### DAACS Documentation
 
 
+![example workflow](https://github.com/DAACS/documentation/actions/workflows/blogdown.yml/badge.svg)
+
+
 This repository contains the source for the DAACS documentation. The documentation is built using [Bookdown](https://bookdown.org/yihui/bookdown/) and is available at [docs.daacs.net](docs.daacs.net). The site uses the [Geekdocs](https://geekdocs.de) theme; the full documentation is available here: /usage/getting-started/
 
 
