@@ -3,6 +3,10 @@ title: Publications
 weight: 10
 ---
 
+The following are publications related to the DAACS project.
+
+<div style="text-indent: -36px; padding-left: 36px;">
+
 
 Franklin, Jr., D. W., Bryer, J., Lui, A. M., Andrade, H. L., Akhmedjanova, D. (2022). The effects of nudges on students’ use of the diagnostic assessment and achievement of college skills. Online Learning, 26(2), 218-240. 
 
@@ -18,3 +22,5 @@ Lui, A., Franklin, D., Akhmedjanova, D., Gorgun, G., Bryer, J., Andrade, H., & C
 
 Yu, E. C., Lui, A., & Franklin, D. (2021, Summer). Using DAACS to foster students’ development of SRL strategies and practices. SSRL SIG Summer Newsletter, pp. 13-14. https://ssrlsig.org/2021/08/23/ssrl-sig-2021-summer-newsletter/ 
 
+
+</div>
