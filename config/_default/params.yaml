@@ -11,7 +11,7 @@ geekdocToC: 3
 geekdocTagsToMenu: true
 
 geekdocRepo: https://github.com/daacs/documentation
-geekdocEditPath: edit/main
+geekdocEditPath: edit/master
 
 geekdocSearch: true
 geekdocSearchShowParent: true
