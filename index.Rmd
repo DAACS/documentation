@@ -1,41 +1,5 @@
---- 
-title: "Diagnostic Assessment and Achievement of College Skills"
-author: "DAACS Research Team"
-date: "`r format(Sys.Date(), format = '%b %d, %Y')`"
-knit: "bookdown::render_book"
-documentclass: krantz
-bibliography: [references.bib]
-biblio-style: apalike
-link-citations: yes
-colorlinks: yes
-lot: yes
-lof: yes
-fontsize: 12pt
-monofont: "Source Code Pro"
-monofontoptions: "Scale=0.7"
-site: bookdown::bookdown_site
-description: "DAACS is a diagnostic assessment designed to help students transition to college. DAACS provides personalized feedback about students’ strengths and weaknesses in terms of key academic and self-regulated learning skills, linking them to the resources to help them be successful students."
-url: 'https\://daacs.net/'
-github-repo: DAACS/documentation
-cover-image: figures/DAACS_logo.png
+---
+site: blogdown:::blogdown_site
 ---
 
-
-# Preface {-}
-
-DAACS is a diagnostic assessment designed to help students transition to college. DAACS provides personalized feedback about students’ strengths and weaknesses in terms of key academic and self-regulated learning skills, linking them to the resources to help them be successful students.
-
-
-## Research Team {-}
-
-Jason Bryer, Ph.D. - Project Director  
-Timothy Cleary, Ph.D. - Co-Project Director  
-Heidi Andrade, Ed.D. - Co-Project Director  
-Barbara Storandt - Evaluator  
-
-____________________________________________________________________________________________________
-
-![Creative Commons License](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)  
-This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).
-
-The contents of this document were developed under grant P116F150077 from the U.S. Department of Education. However, those contents do not necessarily represent the policy of the U.S. Department of Education, and you should not assume endorsement by the Federal Government.
+<!-- This file is for blogdown only. Please do not edit it. -->

@@ -1,0 +1,23 @@
+---
+description: >
+  The Diagnostic Assessment and Achievement of College Skills (DAACS) is a suite of technological and social
+  supportes to optimize student learning. DAACS provides personalized feedback about students' strengths
+  and weaknesses in terms of key academic and self-regulated learning skills, linking them to resources
+  to help them be successful students.
+images:
+  - "socialmedia2.png"
+
+geekdocToC: 3
+geekdocTagsToMenu: true
+
+geekdocRepo: https://github.com/daacs/documentation
+geekdocEditPath: edit/main
+
+geekdocSearch: true
+geekdocSearchShowParent: true
+
+# geekdocLegalNotice: https://thegeeklab.de/legal-notice/#contact-information
+# geekdocPrivacyPolicy: https://thegeeklab.de/legal-notice/#privacy-policy
+
+geekdocImageLazyLoading: true
+geekdocDarkModeDim: true
