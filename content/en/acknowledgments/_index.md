@@ -7,7 +7,10 @@ DAACS was developed under grants #P116F150077 and [#R305A210269](https://ies.ed.
 
 ## Project Personnel
 
-<div style="padding-left:50px;">
+<div style="padding-left:30px;">
+
+{{< columns >}} <!-- begin columns block -->
+
 
 #### Principal Investigators
 
@@ -27,6 +30,26 @@ DAACS was developed under grants #P116F150077 and [#R305A210269](https://ies.ed.
 
 Susanne Harnett, Ph.D., [Metis Associates](https://www.metisassociates.com)  
 [Brian Yates](https://www.american.edu/cas/faculty/byates.cfm), Ph.D., [American University](https://www.american.edu)
+
+<---> <!-- magic separator, between columns -->
+
+#### Advisory Committee
+
+Diana Akhmedjanova, Ph.D.  
+[Virginia Clinton-Lisell](https://und.edu/directory/virginia.clinton), Ph.D., University of North Dakota  
+[Kimberly Colvin](https://www.albany.edu/education/faculty/kimberly-colvin), Ph.D., University at Albany  
+Abbe Herzig, Ph.D., Independent  
+[Nathalia Holtzman](https://qcbiology.commons.gc.cuny.edu/faculty/nathalia-glickman-holtzman/), Ph.D., CUNY Queens College  
+[JoAnne Malatesta](https://www.albany.edu/provost/deans/faculty/joanne-malatesta), Ph.D., University at Albany  
+Darragh McNally, Ph.D., University at Maryland Global Campus  
+[Robert Yagelski](https://www.albany.edu/education/faculty/robert-yagelski), Ph.D., University at Albany  
+
+#### Graduate Students
+
+Oxana Rosca, University at Albany  
+Elie Yu, University at Albany  
+
+{{< /columns >}}
 
 </div>
 
