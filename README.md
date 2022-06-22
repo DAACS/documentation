@@ -23,7 +23,7 @@ blogdown::install_hugo(version = hugo_version,
 					   force = FALSE)
 ```
 
-Once installed, you can start a webserver on your computer using the following command:
+Once installed, you can start a web server on your computer using the following command:
 
 ```
 blogdown::serve_site()
