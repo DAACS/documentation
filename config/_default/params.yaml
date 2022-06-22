@@ -19,5 +19,24 @@ geekdocSearchShowParent: true
 # geekdocLegalNotice: https://thegeeklab.de/legal-notice/#contact-information
 # geekdocPrivacyPolicy: https://thegeeklab.de/legal-notice/#privacy-policy
 
+# (Optional, default static/brand.svg) Set the path to a logo for the Geekdoc
+# relative to your 'static/' folder.
+geekdocLogo: DAACS_logo_inverse.png
+
+# (Optional, default true) Enables search function with flexsearch.
+# Index is built on the fly and might slow down your website.
+geekdocSearch: true
+
+# (Optional, default true) Display a "Back to top" link in the site footer.
+geekdocBackToTop: false
+
+
+# (Optional, default false) Display search results with the parent folder as prefix. This
+# option allows you to distinguish between files with the same name in different folders.
+# NOTE: This parameter only applies when 'geekdocSearch: true'.
+geekdocSearchShowParent: true
+
 geekdocImageLazyLoading: true
 geekdocDarkModeDim: true
+
+
