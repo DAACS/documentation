@@ -7,11 +7,11 @@ more:
   - name: myDAACS
     ref: "https://my.daacs.net"
     external: true
-    icon: "gdoc_home"
+    icon: "gdoc_link"
   - name: SRL Lab
     ref: "https://srl.daacs.net"
     external: true
-    icon: "gdoc_home"
+    icon: "gdoc_link"
   - name: News
     ref: "https://daacs.net/blog/"
     external: true
