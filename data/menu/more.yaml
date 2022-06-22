@@ -16,10 +16,6 @@ more:
     ref: "https://daacs.net/blog/"
     external: true
     icon: "gdoc_notification"
-  # - name: Releases
-  #   ref: "https://github.com/thegeeklab/hugo-geekdoc/releases"
-  #   external: true
-  #   icon: "gdoc_download"
   - name: View Source
     ref: "https://github.com/daacs/documentation"
     external: true
