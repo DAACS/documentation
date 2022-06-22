@@ -7,8 +7,8 @@ if(Sys.info()['sysname'] == 'Darwin') {
 hugo_version <- '0.89.4'
 options(blogdown.hugo.version = hugo_version)
 
-# install.packages('blogdown')
-remotes::install_github('rstudio/blogdown')
+install.packages('blogdown')
+# remotes::install_github('rstudio/blogdown')
 blogdown::install_hugo(version = hugo_version,
 					   extended = TRUE,
 					   force = FALSE)
