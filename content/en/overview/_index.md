@@ -13,9 +13,7 @@ DAACS is not a placement exam! The **D** in DAACS stands for <i>diagnostic</i>. 
 
 Students receive instructions and feedback in a variety of formats including text, images, and videos. This is the introductory video presented to students when they first encounter DAACS. 
 
-<center>
-<iframe src="https://player.vimeo.com/video/212145509?h=b987eec1b5" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-</center>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/212145509?h=b987eec1b5" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 We have created custom videos to introduce students to DAACS. See the video created for the University at Albany on the [UAlbany Advisor page](/advisors/ualbany), for example.
 

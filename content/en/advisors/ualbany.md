@@ -11,8 +11,7 @@ The content on this page is specifically for individuals at the [University at A
 
 The following video was produced to introduce DAACS to students at the University at Albany.
 
-<center><iframe src="https://player.vimeo.com/video/433839913?h=8a4d5289b2" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></center>
-
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/433839913?h=8a4d5289b2" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ## Job Aides
 
