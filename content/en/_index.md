@@ -26,7 +26,7 @@ This site provides details on how to use the Diagnostic Assessment and Achieveme
 
 {{< columns >}}
 
-<a href="/02_advisors/01_introduction" class="gdoc-button__link">
+<a href="/advisors/introduction" class="gdoc-button__link">
 
 ### Academic Advisors & Coaches
 
@@ -36,7 +36,7 @@ Academic advisors, coaches, mentors and other institutional staff who have regul
 
 <--->
 
-<a href="/03_instructors/01_introduction" class="gdoc-button__link">
+<a href="/instructors/introduction" class="gdoc-button__link">
 
 ### Instructors
 
@@ -46,7 +46,7 @@ DAACS is a useful resource to integrate into your teaching. This section provide
 
 <--->
 
-<a href="/04_technical/01_installation" class="gdoc-button__link">
+<a href="/technical/installation" class="gdoc-button__link">
 
 ### Information Technologist
 
