@@ -20,7 +20,7 @@ geekdocAnchor: false
 
 This site provides details on how to use the Diagnostic Assessment and Achievement of College Skills (DAACS). The site has multiple areas depending on your particular role in using DAACS.
 
-{{< button size="large" relref="/01_overview/01_overview" >}}Get Started{{< /button >}}
+{{< button size="large" relref="/overview/overview" >}}Get Started{{< /button >}}
 
 ## Select your role...
 
