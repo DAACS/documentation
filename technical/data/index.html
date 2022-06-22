@@ -12,9 +12,9 @@
 <meta name="generator" content="Hugo 0.89.4" />
 
 
-  <meta name="description" content="The my.daacs.net provides a feature for instructors to use DAACS with students in your course. This section will outline the steps to create classes, invite students to your class, and downloading results." />
+  <meta name="description" content="DAACS uses a Mongo database for storing all data in the system. Mongo is a nosql, document based system. For research and predictive modeling purposes, this data will need to be converted to table(s) (also to ingest into relational databases). This section will provide an overview of the data structures used as well as utility queries and R functions to work with DAACS data." />
 
-    <title>Instructors | Documentation</title>
+    <title>Data | Documentation</title>
 
     <link rel="icon" type="image/svg+xml" href="/favicon/favicon.svg" />
 <link
@@ -35,15 +35,15 @@
     
   <meta
     property="og:title"
-    content="Instructors"
+    content="Data"
   />
   <meta property="og:site_name" content="Documentation" />
   <meta property="og:image" content="https://docs.daacs.net/socialmedia2.png" />
-  <meta property="og:description" content="The my.daacs.net provides a feature for instructors to use DAACS with students in your course. This section will outline the steps to create classes, invite students to your class, and downloading results." />
+  <meta property="og:description" content="DAACS uses a Mongo database for storing all data in the system. Mongo is a nosql, document based system. For research and predictive modeling purposes, this data will need to be converted to table(s) (also to ingest into relational databases). This section will provide an overview of the data structures used as well as utility queries and R functions to work with DAACS data." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://docs.daacs.net/instructors/" />
+<meta property="og:url" content="https://docs.daacs.net/technical/data/" />
 
-<meta property="article:section" content="Instructors" />
+<meta property="article:section" content="Technical" />
     <meta
       property="article:modified_time"
       content="2022-06-21T21:38:41-04:00"
@@ -51,27 +51,27 @@
 
 
   <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:title" content="Instructors" />
+<meta name="twitter:title" content="Data" />
   <meta property="twitter:image" content="https://docs.daacs.net/socialmedia2.png" />
-  <meta name="twitter:description" content="The my.daacs.net provides a feature for instructors to use DAACS with students in your course. This section will outline the steps to create classes, invite students to your class, and downloading results." />
+  <meta name="twitter:description" content="DAACS uses a Mongo database for storing all data in the system. Mongo is a nosql, document based system. For research and predictive modeling purposes, this data will need to be converted to table(s) (also to ingest into relational databases). This section will provide an overview of the data structures used as well as utility queries and R functions to work with DAACS data." />
 
 
   <script type="application/ld+json">
   {
       "@context": "http://schema.org",
       "@type": "TechArticle",
-      "articleSection": "Instructors",
-      "name": "Instructors",
-      "url" : "https://docs.daacs.net/instructors/",
-      "headline": "Instructors",
-      "description": "The my.daacs.net provides a feature for instructors to use DAACS with students in your course. This section will outline the steps to create classes, invite students to your class, and downloading results.",
+      "articleSection": "Technical",
+      "name": "Data",
+      "url" : "https://docs.daacs.net/technical/data/",
+      "headline": "Data",
+      "description": "DAACS uses a Mongo database for storing all data in the system. Mongo is a nosql, document based system. For research and predictive modeling purposes, this data will need to be converted to table(s) (also to ingest into relational databases). This section will provide an overview of the data structures used as well as utility queries and R functions to work with DAACS data.",
       "thumbnailUrl": "https://docs.daacs.net/socialmedia2.png",
-      "wordCount" : "32",
+      "wordCount" : "64",
       "inLanguage": "en",
       "isFamilyFriendly": "true",
       "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://docs.daacs.net/instructors/"
+          "@id": "https://docs.daacs.net/technical/data/"
       },
       "copyrightHolder" : "Documentation",
       "copyrightYear" : "0001",
@@ -153,7 +153,7 @@
   href="/custom.css"
   media="all"
 />
-  <link href="https://docs.daacs.net/instructors/" rel="canonical" type="text/html" />
+  <link href="https://docs.daacs.net/technical/data/" rel="canonical" type="text/html" />
 
 <!-- Made with Geekdoc theme https://github.com/thegeeklab/hugo-geekdoc -->
 
@@ -1421,7 +1421,7 @@ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL
                 <span class="flex">
                   <a
                     href="/instructors/"
-                    class="gdoc-nav__entry is-active"
+                    class="gdoc-nav__entry"
                   >
                     Instructors
                   </a>
@@ -1654,7 +1654,7 @@ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL
                 <span class="flex">
                   <a
                     href="/technical/data/"
-                    class="gdoc-nav__entry"
+                    class="gdoc-nav__entry is-active"
                   >
                     Data
                   </a>
@@ -1986,7 +1986,15 @@ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL
     
   
   
-    <li itemprop='itemListElement' itemscope itemtype='https://schema.org/ListItem'><a itemscope itemtype='https://schema.org/WebPage' itemprop='item' itemid='/' href='/'><span itemprop='name'></span></a><meta itemprop='position' content='1' /></li><li> / </li><li itemprop='itemListElement' itemscope itemtype='https://schema.org/ListItem'><span itemprop='name'>Instructors</span><meta itemprop='position' content='2' /></li>
+    
+    
+    
+    
+  
+  
+    <li itemprop='itemListElement' itemscope itemtype='https://schema.org/ListItem'><a itemscope itemtype='https://schema.org/WebPage' itemprop='item' itemid='/' href='/'><span itemprop='name'></span></a><meta itemprop='position' content='1' /></li><li> / </li><li itemprop='itemListElement' itemscope itemtype='https://schema.org/ListItem'><a itemscope itemtype='https://schema.org/WebPage' itemprop='item' itemid='/technical/' href='/technical/'><span itemprop='name'>Technical</span></a><meta itemprop='position' content='2' /></li><li> / </li><li itemprop='itemListElement' itemscope itemtype='https://schema.org/ListItem'><span itemprop='name'>Data</span><meta itemprop='position' content='3' /></li>
+  
+
   
 
   
@@ -1999,7 +2007,7 @@ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL
       <span class="editpage">
         <svg class="gdoc-icon gdoc_code"><use xlink:href="#gdoc_code"></use></svg>
         <a
-          href="https://github.com/daacs/documentation/edit/master/content/en/instructors/_index.md"
+          href="https://github.com/daacs/documentation/edit/master/content/en/technical/data.md"
         >
           Edit page
         </a>
@@ -2013,12 +2021,12 @@ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL
   <article
     class="gdoc-markdown gdoc-markdown__align--left"
   >
-    <h1>Instructors</h1>
-    <p>The <a
+    <h1>Data</h1>
+    <p>DAACS uses a Mongo database for storing all data in the system. Mongo is a <a
   class="gdoc-markdown__link"
-  href="https://my.daacs.net"
+  href="https://www.mongodb.com/nosql-explained"
   
->my.daacs.net</a> provides a feature for instructors to use DAACS with students in your course. This section will outline the steps to create classes, invite students to your class, and downloading results.</p>
+>nosql</a>, document based system. For research and predictive modeling purposes, this data will need to be converted to table(s) (also to ingest into relational databases). This section will provide an overview of the data structures used as well as utility queries and R functions to work with DAACS data.</p>
 
   </article>
 
