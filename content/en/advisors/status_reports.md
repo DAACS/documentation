@@ -1,5 +1,5 @@
 ---
-title: Status Reports
+title: Summary Reports
 weight: 4
 ---
 
