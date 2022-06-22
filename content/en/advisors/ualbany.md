@@ -1,6 +1,6 @@
 ---
 title: UAlbany
-weight: 9
+weight: 10
 ---
 
 {{< hint type=note icon=gdoc_info_outline title=Note >}}

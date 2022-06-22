@@ -1,6 +1,6 @@
 ---
 title: FAQ
-weight: 10
+weight: 6
 ---
 
 {{< expand "What does DAACS stand for?" >}}

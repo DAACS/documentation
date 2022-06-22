@@ -20,7 +20,7 @@
             src="{{ (default "brand.svg" .Root.Site.Params.GeekdocLogo) | relURL }}"
             alt=""
           />
-          <span class="gdoc-brand__title">{{ .Root.Site.Title }}</span>
+          <span class="gdoc-brand__title" style="font-size:0.75em;padding-top:14px;">{{ .Root.Site.Title }}</span>
         </span>
       </a>
     </div>
@@ -31,7 +31,7 @@
         {{ end }}
 
 
-        <span id="gdoc-color-theme">
+        <!-- span id="gdoc-color-theme">
           <svg class="gdoc-icon gdoc_brightness_dark">
             <title>{{ i18n "button_toggle_dark" }}</title>
             <use xlink:href="#gdoc_brightness_dark"></use>
@@ -44,7 +44,7 @@
             <title>{{ i18n "button_toggle_dark" }}</title>
             <use xlink:href="#gdoc_brightness_auto"></use>
           </svg>
-        </span>
+        </span -->
 
         <span class="gdoc-menu-header__home">
           <a href="{{ .Root.Site.BaseURL }}" class="gdoc-header__link">

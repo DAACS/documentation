@@ -5,7 +5,7 @@ description: >
   and weaknesses in terms of key academic and self-regulated learning skills, linking them to resources
   to help them be successful students.
 images:
-  - "socialmedia2.png"
+  - "DAACS_logo_square.png"
 
 geekdocToC: 3
 geekdocTagsToMenu: true
@@ -14,7 +14,6 @@ geekdocRepo: https://github.com/daacs/documentation
 geekdocEditPath: edit/master
 
 geekdocSearch: true
-geekdocSearchShowParent: true
 
 # geekdocLegalNotice: https://thegeeklab.de/legal-notice/#contact-information
 # geekdocPrivacyPolicy: https://thegeeklab.de/legal-notice/#privacy-policy
@@ -37,6 +36,6 @@ geekdocBackToTop: false
 geekdocSearchShowParent: true
 
 geekdocImageLazyLoading: true
-geekdocDarkModeDim: true
+geekdocDarkModeDim: false
 
 

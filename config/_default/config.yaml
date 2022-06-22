@@ -1,6 +1,6 @@
 ---
 baseURL: https://docs.daacs.net/
-# title: Documentation
+title: Documentation
 theme: hugo-geekdoc
 
 publishDir: docs/

@@ -16,7 +16,7 @@ more:
     ref: "https://daacs.net/blog/"
     external: true
     icon: "gdoc_notification"
-  - name: View Source
-    ref: "https://github.com/daacs/documentation"
+  - name: DAACS on Github
+    ref: "https://github.com/daacs"
     external: true
     icon: "gdoc_github"
