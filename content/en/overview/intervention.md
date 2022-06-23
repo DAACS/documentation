@@ -83,3 +83,7 @@ As explained above, DAACS is a research-based intervention that integrates SRL, 
 
 Features designed to leverage the feedback and resources made available by DAACS include nudges to students and advisors, and dashboards and training to guide DAACS-informed advisement. These features are intended to strengthen interactions between advisors and students. As a result, students will develop the skills necessary to persist in school, waste less time in remedial courses, earn more credits, and have higher GPAs. In addition, participating institutions will use DAACS data to more accurately identify students in need of extra support and to individualize the support they receive. As DAACS becomes more widely used, higher education practices will shift away from remediation and toward a more informative and supportive approach based on diagnostic assessment, feedback, and open educational resources.
 
+
+<img src='/images/logic_model.png' style='display:block; margin-left:auto;margin-right: auto;width: 100%;' />
+Figure 2. DAACS Logic Model
+
