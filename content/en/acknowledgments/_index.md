@@ -14,9 +14,9 @@ DAACS was developed under grants #P116F150077 and [#R305A210269](https://ies.ed.
 
 #### Principal Investigators
 
-[Jason Bryer](mailto:jason.bryer@cuny.edu), Ph.D., [CUNY School of Professional Studies](https://sps.cuny.edu)  
-[Heidi Andrade](mailto:handrade@albany.edu), Ed.D., [University at Albany](https://albany.edu)  
-[Timothy Cleary](mailto:timothy.cleary@rutgers.edu), Ph.D., [Rutgers University](https://www.rutgers.edu)
+[Jason Bryer](https://bryer.org), Ph.D., [CUNY School of Professional Studies](https://sps.cuny.edu)  
+[Heidi Andrade](https://www.albany.edu/education/faculty/heidi-l-andrade), Ed.D., [University at Albany](https://albany.edu)  
+[Timothy Cleary](https://gsapp.rutgers.edu/faculty/timothy-cleary), Ph.D., [Rutgers University](https://www.rutgers.edu)
 
 #### Project Manager
 
