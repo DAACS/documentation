@@ -13,7 +13,7 @@
 
 
   <meta name="description" content="The DAACS system can automatically score written responses from students. It uses the Lightside models to do the scoring.
-  " />
+ Training Data When creating a CSV file to use with Lightside, it must contain two columns named Score and text otherwise DAACS will not work.  When you first open Lightside, you will be presented with the screen below to load your data file (in CSV format) and to select what features you want extract." />
 
     <title>Writing | Documentation</title>
 
@@ -41,14 +41,14 @@
   <meta property="og:site_name" content="Documentation" />
   <meta property="og:image" content="https://docs.daacs.net/DAACS_logo_square.png" />
   <meta property="og:description" content="The DAACS system can automatically score written responses from students. It uses the Lightside models to do the scoring.
-  " />
+ Training Data When creating a CSV file to use with Lightside, it must contain two columns named Score and text otherwise DAACS will not work.  When you first open Lightside, you will be presented with the screen below to load your data file (in CSV format) and to select what features you want extract." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://docs.daacs.net/technical/assessments/writing/" />
 
 <meta property="article:section" content="Technical" />
     <meta
       property="article:modified_time"
-      content="2022-06-23T08:10:50-04:00"
+      content="2022-06-23T08:40:12-04:00"
     />
 
 
@@ -56,7 +56,7 @@
 <meta name="twitter:title" content="Writing" />
   <meta property="twitter:image" content="https://docs.daacs.net/DAACS_logo_square.png" />
   <meta name="twitter:description" content="The DAACS system can automatically score written responses from students. It uses the Lightside models to do the scoring.
-  " />
+ Training Data When creating a CSV file to use with Lightside, it must contain two columns named Score and text otherwise DAACS will not work.  When you first open Lightside, you will be presented with the screen below to load your data file (in CSV format) and to select what features you want extract." />
 
 
   <script type="application/ld+json">
@@ -67,9 +67,9 @@
       "name": "Writing",
       "url" : "https://docs.daacs.net/technical/assessments/writing/",
       "headline": "Writing",
-      "description": "The DAACS system can automatically score written responses from students. It uses the Lightside models to do the scoring.\n  ",
+      "description": "The DAACS system can automatically score written responses from students. It uses the Lightside models to do the scoring.\n Training Data When creating a CSV file to use with Lightside, it must contain two columns named Score and text otherwise DAACS will not work.  When you first open Lightside, you will be presented with the screen below to load your data file (in CSV format) and to select what features you want extract.",
       "thumbnailUrl": "https://docs.daacs.net/DAACS_logo_square.png",
-      "wordCount" : "19",
+      "wordCount" : "475",
       "inLanguage": "en",
       "isFamilyFriendly": "true",
       "mainEntityOfPage": {
@@ -80,7 +80,7 @@
       "copyrightYear" : "0001",
       "dateCreated": "0001-01-01T00:00:00.00Z",
       "datePublished": "0001-01-01T00:00:00.00Z",
-      "dateModified": "2022-06-23T08:10:50.00Z",
+      "dateModified": "2022-06-23T08:40:12.00Z",
       "publisher":{
           "@type":"Organization",
           "name": "Documentation",
@@ -2320,8 +2320,280 @@ License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL
   href="https://ankara.lti.cs.cmu.edu/side/download.html"
   
 >Lightside</a> models to do the scoring.</p>
+
+
+
+
+
+<blockquote class="gdoc-hint important">
+  <div class="gdoc-hint__title flex align-center"><svg class="gdoc-icon gdoc_error_outline"><use xlink:href="#gdoc_error_outline"></use></svg>
+      <span>Training Data</span></div>
+  <div class="gdoc-hint__text">When creating a CSV file to use with Lightside, it must contain two columns named <code>Score</code> and <code>text</code> otherwise DAACS will not work.</div>
+</blockquote>
+
+<p>When you first open Lightside, you will be presented with the screen below to load your data file (in CSV format) and to select what features you want extract. Be sure select <code>NOMINAL</code> for the score type and select <code>text</code> under text fields. The Lightside documentation provides details about each of the feature extraction options. Choosing the correct combination is a combination of theory (i.e. picking the features that are related to the criteria) and trial-and-error to obtain the highest accuracy. The table below provides details about which features were used for each criteria for our rubric.</p>
 <center><img src="/images/screenshot_lightside_extract_features.png" width="80%" alt="Lightside Extract Features" /></center>
+<p>Once the features are extracted we move to the &ldquo;Build Models&rdquo; tab. Here, we will train a machine learning algorithm to predict the score from the extracted features. By default Lightside uses 10-fold validation to estimate fit statistics. The bottom middle provides the accuracy and Kappa and the lower right the full confusion matrix. A typical workflow involves checking the accuracy, returning to the &ldquo;Extract Features&rdquo; tab and change options, retrain the model, compare the accuracy, and repeat. Ideally you would have a separate validation dataset with which you would estimate fit statistics (e.g. accuracy, Kappa) against your final feature and model combination to report final estimates.</p>
 <center><img src="/images/screenshot_lightside_build_models.png" width="80%" alt="Lightside Build Models" /></center>
+<p>Once you have decided on a final model, you can save the model using the save icon in the lower left side. The file saved is what you will upload to DAACS to conduct the machine scoring.</p>
+
+
+
+
+
+<blockquote class="gdoc-hint note">
+  <div class="gdoc-hint__title flex align-center"><svg class="gdoc-icon gdoc_error_outline"><use xlink:href="#gdoc_error_outline"></use></svg>
+      <span>Prediction File</span></div>
+  <div class="gdoc-hint__text">The model file may be very large. It is stored in XML format which can be opened in any text editor. The file is large because it contains a full copy of the training data which is not necessary for predictions. You can delete that data to reduce the file size.</div>
+</blockquote>
+
+<p><strong>Lightside Models and Features by Criterion</strong></p>
+<div class="table-wrap"> <table>
+<thead>
+<tr>
+<th></th>
+<th>Summary</th>
+<th>Suggestions</th>
+<th>Structure</th>
+<th>Transition</th>
+<th>Focus</th>
+<th>Cohesion</th>
+<th>Correct</th>
+<th>Complex</th>
+<th>Conventions</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Model</td>
+<td>Logit</td>
+<td>Logit</td>
+<td>Bayes</td>
+<td>Bayes</td>
+<td>Logit</td>
+<td>Logit</td>
+<td>Logit</td>
+<td>Bayes</td>
+<td>Logit</td>
+</tr>
+<tr>
+<td>Accuracy</td>
+<td>69.92</td>
+<td>72.26</td>
+<td>74.22</td>
+<td>47.17</td>
+<td>73.45</td>
+<td>72.73</td>
+<td>55.73</td>
+<td>68.42</td>
+<td>63.16</td>
+</tr>
+<tr>
+<td>% Bad error/nonadjacent</td>
+<td>0.05</td>
+<td>0.06</td>
+<td>0.01</td>
+<td>0.04</td>
+<td>0.12</td>
+<td>0.01</td>
+<td>0.07</td>
+<td>0.003</td>
+<td>0.04</td>
+</tr>
+<tr>
+<td>Unigrams</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+</tr>
+<tr>
+<td>Bigrams</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>X</td>
+<td></td>
+<td>X</td>
+<td>X</td>
+<td></td>
+</tr>
+<tr>
+<td>Trigrams</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>X</td>
+<td>X</td>
+<td></td>
+</tr>
+<tr>
+<td>POS Bigrams</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+</tr>
+<tr>
+<td>POS Trigrams</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+</tr>
+<tr>
+<td>Word/POS Pairs</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+</tr>
+<tr>
+<td>Line length</td>
+<td></td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+</tr>
+<tr>
+<td>Count occurences</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Normalize N-gram counts</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Include punctuation</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+</tr>
+<tr>
+<td>Step N-grams</td>
+<td></td>
+<td></td>
+<td></td>
+<td>X</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Skip stopwords</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ignore all stopwords</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Contains non-stop words</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Character N-grams</td>
+<td></td>
+<td></td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td></td>
+<td>X</td>
+<td></td>
+</tr>
+<tr>
+<td>Stretchy patterns</td>
+<td></td>
+<td></td>
+<td>X</td>
+<td>X</td>
+<td></td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+</tr>
+</tbody>
+</table> </div>
 
   </article>
 
