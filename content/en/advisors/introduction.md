@@ -3,7 +3,7 @@ title: Getting Started
 weight: 1
 ---
 
-When getting aquanted with DAACS, we recommend that you first take the assessments to see what the student experience is like. You can create an account at [my.daacs.net](https://my.daacs.net) (**be sure to select the student role when creating an account**). We suggest beginning with the self-regulated learning assessment followed by writing. Once you complete the assessment, browse your feedback and explore some of the suggested resources and reflect on the strategies recommended.
+Before beginning to think about how to incorporate DAACS into your advising, coaching, or teaching, we recommend that you first take the assessments and explore the feedback to see what the student experience is like. You can create an account at [my.daacs.net](https://my.daacs.net) (**be sure to select the student role when creating an account**). We suggest beginning with the self-regulated learning assessment followed by writing. Once you complete the assessments, browse your feedback and explore some of the suggested resources and reflect on the strategies recommended.
 
 ### Reflection Questions
 

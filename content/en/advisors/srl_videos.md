@@ -4,7 +4,7 @@ weight: 3
 ---
 
 
-When students complete the DAACS self-regulated learning assessment they are provided customized feedback based upon their results. Feedback is presented in both text and video formats. This page contains the videos students can watch to learn more about self-regulated learning and the various specific domains within.
+When students complete the DAACS self-regulated learning assessment they are provided customized feedback based upon their results. Feedback is presented in both text and video formats. This page contains the videos students can watch to learn more about self-regulated learning.
 
 ## Intro to SRL
 
