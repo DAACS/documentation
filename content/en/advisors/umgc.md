@@ -35,7 +35,7 @@ Click on the images below to download a PDF of the job aid.
 
 ## Frequently Asked Questions
 
-### Success Coaches & Military Academic Coordinators
+### Success Coaches & Military Education Coordinators (MECs)
 
 {{< expand "If only half of the new students will be using DAACS in Fall 2022 and they will be randomly assigned, how do I know if a student I’m working with is using DAACS??" >}}
 If a student has a DAACS summary report in Salesforce, that student has been assigned to the DAACS treatment group and has done the required assignment in PACE. If there is no summary report by week 3, either the student is in the control group (no DAACS) or has not yet done the assignment—you’d have to ask.
