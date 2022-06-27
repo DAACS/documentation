@@ -23,7 +23,7 @@ Click on the images below to download a PDF of the job aid.
 {{< /columns >}}
 
 {{< columns >}} <!-- begin columns block -->
-### FAQ for Coaches and Military Academic Coordinators
+### FAQ for Coaches and Military Education Coordinators
 <a href="/job_aides/UMGC_FAQ_coach_and_coordinator.pdf"><img src="/job_aides/UMGC_FAQ_coach_and_coordinator.png" border="0" width="90%"/></a>
 
 <---> <!-- magic separator, between columns -->
