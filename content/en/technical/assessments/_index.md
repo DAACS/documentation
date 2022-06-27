@@ -1,5 +1,5 @@
 ---
-title: Assessments
+title: Assessment Types
 weight: 2
 ---
 
