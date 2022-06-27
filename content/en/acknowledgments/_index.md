@@ -3,7 +3,7 @@ title: Acknowledgments
 weight: 99
 ---
 
-DAACS was developed under grants #P116F150077 and [#R305A210269](https://ies.ed.gov/funding/grantsearch/details.asp?ID=4549) from the U.S. Department of Education. However, the contents do not necessarily represent the policy of the U.S. Department of Education, and you should not assume endorsement by the Federal Government.
+DAACS was developed under grants [#P116F150077](https://www2.ed.gov/programs/fitw/awards.html) and [#R305A210269](https://ies.ed.gov/funding/grantsearch/details.asp?ID=4549) from the U.S. Department of Education. However, the contents do not necessarily represent the policy of the U.S. Department of Education, and you should not assume endorsement by the Federal Government.
 
 ## Project Personnel
 
