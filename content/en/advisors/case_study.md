@@ -28,23 +28,30 @@ What did you learn from Jim after reading his essay and writing assessment resul
 {{< expand "Click here for more ideas" >}}
 After reading his essay and seeing his writing assessment results, we can see that Jim is a good writer, which will help him to succeed in college. If Jim wanted to improve or brush up on his writing skills, he could visit the Online Writing Lab, or any of the resources available at your school tailored towards assisting students with their writing.
 
-Based on the content of the essay, we can see that Jim is motivated to succeed and committed to utilizing the tips offered by DAACS to make this success happen. 
+Based on the content of the essay, we can see that Jim is motivated to succeed and committed to utilizing the tips offered by DAACS to make this success happen. He made a solid plan of action to improve his metacognition, so you might consider following up with him to remind him of his plan, encouraging him to follow through on it.
+
+He did not, however, make any plans to improve how he manages his time and environment. You might suggest a few strategies from the summary report, like keeping a calendar to improve his time management, and identifying a few good study places aside from his house. Some of the issues he is dealing with, especially in his home life, might be beyond his control, so it is important to empower him to find the best possible ways to cope with a difficult situation. A referral to your school’s counseling center might be appropriate, given some of the issues he mentioned in his essay.
 {{< /expand >}}
 
-SRL
+What did you notice about Jim’s self-regulated learning results? What tips might you suggest to him to become a more self-regulated learner? Hint: check out the third page of the summary report.
 
+{{< expand "Click here for more ideas" >}}
+Jim already mentioned a few ways to improve his self-regulated learning in his essay, especially in regards to metacognition. However, there are more tips he can utilize, as you can see on the third page of his summary report, which identified a few tips for the three areas of self-regulated learning he struggled with most.
+{{< /expand >}}
+
+What did you notice about Jim’s self-efficacy? Consider not only his self-efficacy results from the self-regulated learning survey, but also what he wrote in his essay. How does Jim’s self-efficacy in reading, writing, and math match up with his performance in the reading, writing, and math assessments?
+
+{{< expand "Click here for more ideas" >}}
+Jim is clearly dealing with some self-doubt about his ability to perform well in college. This is evident from his self-efficacy results, which were low in all areas except for math. It’s important to encourage him by reminding him that with effort and support, he can achieve success in college.
+
+We can also see that in Jim’s essay, he only focused on the areas that he struggled in. He could benefit from being reminded of his strengths as well, and encouraged to capitalize on these strengths. For example, his willingness to seek help, his growth mindset, and his ability to manage test anxiety will all play a major role in his time in college. 
+
+He also has more reading and writing ability than he is giving himself credit for. Although he had low self-efficacy for reading and writing, he did very well on the reading and writing assessments. Some students, like Jim, are more capable than they realize, and need encouragement to realize their potential and not give up on themselves. Jim’s growth mindset makes him more likely to benefit from such encouragement.
+{{< /expand >}}
+
+What questions would you want to ask Jim based on his DAACS results and essay?
 {{< expand "Click here for more ideas" >}}
 
 {{< /expand >}}
 
-Self-efficacy mismatch
-
-{{< expand "Click here for more ideas" >}}
-
-{{< /expand >}}
-
-What questions would you want to ask him based on his DAACS results?
-{{< expand "Click here for more ideas" >}}
-
-{{< /expand >}}
-
+![image](https://user-images.githubusercontent.com/33462067/176223154-02a2857a-86ce-424b-b19c-ff9628078125.png)
