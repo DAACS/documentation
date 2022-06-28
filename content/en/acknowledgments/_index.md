@@ -7,7 +7,7 @@ DAACS was developed under grants [#P116F150077](https://www2.ed.gov/programs/fit
 
 ## Project Personnel
 
-<div style="padding-left:30px;">
+<div style="padding-left:0px;">
 
 {{< columns >}} <!-- begin columns block -->
 
@@ -55,7 +55,7 @@ Elie Yu, University at Albany
 
 ## Institutional Partners
 
-<div style="padding-left:40px;">
+<div style="padding-left:0px;">
 
 * [CUNY School of Professional Studies](https://sps.cuny.edu)
 * [University at Albany](https://albany.edu)
