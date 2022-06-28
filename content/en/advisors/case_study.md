@@ -48,4 +48,3 @@ What questions would you want to ask him based on his DAACS results?
 
 {{< /expand >}}
 
-![image](https://user-images.githubusercontent.com/33462067/176096415-3b208cc2-0f6e-40d9-b879-b3c13fa98171.png)
