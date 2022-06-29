@@ -5,7 +5,7 @@ weight: 5
 
 The goal of this activity is to give you an opportunity to explore a student’s DAACS summary report, and discover ways in which you might use DAACS to support this student.
 
-The student we will be working with is Jim Clevis. To get started, review Jim’s DAACS summary report by clicking here. As you read it, try to imagine how the information, resources, and tips in the summary report might be used to support Jim as he begins college.
+The student we will be working with is Jim Clevis. To get started, review Jim’s DAACS summary report by clicking [here](/jim_clevis_summary_report.pdf). As you read it, try to imagine how the information, resources, and tips in the summary report might be used to support Jim as he begins college.
 
 Now that you’ve read Jim’s summary report, consider the questions below. Try to think about each question before clicking for more ideas. It might even help to jot down or type your answers in a separate window.
 
@@ -22,7 +22,7 @@ What would you suggest Jim do to improve his math and reading skills?
 {{< expand "Click here for more ideas" >}}
 Jim could start by checking the reading and math items he got incorrect, and reviewing the explanations for the correct answers. He could also read the feedback he received, especially for the specific areas of math and reading he struggled with. 
 
-Jim might also use some of the free resources that are linked in the feedback and in his summary report (e.g., mathisfun.com, the Online Reading Lab, and more). Finally, Jim could benefit from some of the many resources available at your school, which are also listed in the first page of the summary report.
+Jim might also use some of the free resources that are linked in the feedback and in his summary report (e.g., [mathisfun.com](https://www.mathsisfun.com/), the [Online Reading Lab](https://owl.excelsior.edu/orc/), and more). Finally, Jim could benefit from some of the many resources available at your school, which are also listed in the first page of the summary report.
 {{< /expand >}}
 
 What did you learn from Jim after reading his essay and writing assessment results? What suggestions might you provide?
