@@ -9,6 +9,8 @@ The student we will be working with is Jim Clevis. To get started, review Jim’
 
 Now that you’ve read Jim’s summary report, consider the questions below. Try to think about each question before clicking for more ideas. It might even help to jot down or type your answers in a separate window.
 
+---
+
 Overall, what are your first impressions about Jim’s preparedness for college? What do you think are his greatest strengths, and what areas will be the most challenging? 
 
 {{< expand "Click here for more ideas" >}}
@@ -53,5 +55,3 @@ What questions would you want to ask Jim based on his DAACS results and essay?
 {{< expand "Click here for more ideas" >}}
 
 {{< /expand >}}
-
-![image](https://user-images.githubusercontent.com/33462067/176223154-02a2857a-86ce-424b-b19c-ff9628078125.png)
