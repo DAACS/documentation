@@ -3,6 +3,8 @@ title: FAQ
 weight: 6
 ---
 
+If you have a question not answered here, please email us at [admin@daacs.net](mailto:admin@daacs.net?subject=FAQ).
+
 {{< expand "What does DAACS stand for?" >}}
 **D**iagnostic **A**ssessment and **A**chievement of **C**ollege **S**kills
 {{< /expand >}}
