@@ -29,5 +29,17 @@ When students complete the DAACS SRL assessment or receive a [summary report](/a
 {{< include file="tips/self_efficacy_for_reading.md" >}}
 {{< include file="tips/self_efficacy_for_writing.md" >}}
 {{< /tab >}}
+{{< tab "Writing" >}}
+* [Exlcelsior College Online Writing Lab](https://owl.excelsior.edu)
+* Your institution's writing lab.
+{{< /tab >}}
+{{< tab "Reading" >}}
+* [Exlcelsior College Online Reading Comprehension Lab](https://owl.excelsior.edu/orc)
+{{< /tab >}}
+{{< tab "Mathematics" >}}
+* [Math Is Fun](https://mathisfun.com)
+* Your institution's tutoring center.
+{{< /tab >}}
+
 {{< /tabs >}}
 
