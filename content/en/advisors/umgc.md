@@ -62,7 +62,7 @@ The summary reports include 1) overall results for the reading, writing, math an
 {{< /expand >}}
 
 {{< expand "Where can I find more information about DAACS?" >}}
-Visit us at https://docs.daacs.net for more information about DAACS. You can also contact Susan Hawkins-Wilding (susan.hawkins-wilding@umgc.edu) or Aspen McPartland (aspen.mcpartland@umgc.edu).![image](https://user-images.githubusercontent.com/16260007/176774304-cd52f361-9f62-4411-8b55-fcf13b699e5e.png)
+Visit us at https://docs.daacs.net for more information about DAACS. You can also contact Susan Hawkins-Wilding (susan.hawkins-wilding@umgc.edu) or Aspen McPartland (aspen.mcpartland@umgc.edu).
 
 {{< /expand >}}
 
