@@ -39,6 +39,8 @@ Click on the images below to download a PDF of the job aid.
 
 <---> <!-- magic separator, between columns -->
 
+{{< /columns >}}
+
 ## Frequently Asked Questions
 
 ### Success Coaches & Military Education Coordinators (MECs)
