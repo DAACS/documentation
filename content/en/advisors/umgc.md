@@ -33,6 +33,12 @@ Click on the images below to download a PDF of the job aid.
 
 {{< /columns >}}
 
+{{< columns >}} <!-- begin columns block -->
+### What to Say When Students Ask About DAACS
+<a href="/job_aides/UMGC Job Aid_Student FAQs.pdf"><img src="/job_aides/UMGC Job Aid_Student FAQs.png" border="0" width="90%"/></a>
+
+<---> <!-- magic separator, between columns -->
+
 ## Frequently Asked Questions
 
 ### Success Coaches & Military Education Coordinators (MECs)
