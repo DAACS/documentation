@@ -1,5 +1,5 @@
 ---
-title: Advisors
+title: Advisors / Coaches
 weight: 2
 ---
 
