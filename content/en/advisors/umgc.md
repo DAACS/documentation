@@ -7,7 +7,7 @@ weight: 10
 The content on this page is specifically for individuals at the [University of Maryland Global Campus](https://www.umgc.edu) (UMGC).
 {{< /hint >}}
 
-## Job Aides
+## Job Aids
 
 Click on the images below to download a PDF of the job aid.
 
