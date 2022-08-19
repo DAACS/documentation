@@ -13,7 +13,7 @@ blogdown::install_hugo(version = hugo_version,
 					   extended = TRUE,
 					   force = FALSE)
 
-blogdown::build_site(build_rmd = TRUE)
+blogdown::build_site(local = FALSE, run_hugo = TRUE, build_rmd = FALSE)
 
 if(FALSE) { # Commands to run locally
 	blogdown::serve_site()

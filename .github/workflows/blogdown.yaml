@@ -44,7 +44,7 @@ jobs:
         shell: Rscript {0}
 
       - name: Build site
-        run: blogdown::build_site(local = TRUE, run_hugo = TRUE, build_rmd = TRUE)
+        run: blogdown::build_site(local = TRUE, run_hugo = TRUE, build_rmd = FALSE)
         shell: Rscript {0}
 
       - name: Deploy to GitHub pages 🚀
