@@ -9,7 +9,7 @@ Academic advisors, coaches, mentors, and other administrators who have contact w
 {{< tabs "uniqueid" >}}
 {{< tab "Par 1: Introduction" >}}
 
-<div style="padding:25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/741275470?h=cac5bc4dfd&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Using DAACS to Empower College Students - 1. Introduction.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/741275470?h=cac5bc4dfd&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Using DAACS to Empower College Students - 1. Introduction.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 {{< /tab >}}
 {{< tab "Part 2: Assessments" >}} 
@@ -19,12 +19,12 @@ Academic advisors, coaches, mentors, and other administrators who have contact w
 {{< /tab >}}
 {{< tab "Part 3: Feedback and Resources" >}} 
 
-<div style="padding:25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/741277087?h=d1b720f055&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Using DAACS to Empower College Students - 3. Feedback and Resources.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/741277087?h=d1b720f055&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Using DAACS to Empower College Students - 3. Feedback and Resources.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 {{< /tab >}}
 {{< tab "Part 4: Students at the Center" >}} 
 
-<div style="padding:25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/741279388?h=4d526e75a3&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Using DAACS to Empower College Students - 4. Students at the Center.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/741279388?h=4d526e75a3&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Using DAACS to Empower College Students - 4. Students at the Center.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 {{< /tab >}}
 {{< /tabs >}}
