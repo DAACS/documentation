@@ -20,7 +20,7 @@ Additional relevant resources are available in the advisor section here: [adviso
 
 {{< expand "How do students receive credit for their Week 2 assignment if they are in a DAACS section of PACE?" >}}
 Students will receive credit for the Week 2 assignment by completing two tasks:
-1) After using DAACS at [url], they upload their DAACS summary reports to your course.
+1) After using DAACS at https://umgc.daacs.net/, they upload their DAACS summary reports to your course.
 2) They then participate in a discussion of their own and their peers’ reflections on the DAACS feedback.
 See the Week 2 assignment in your course for details.
 {{< /expand >}}
@@ -29,10 +29,10 @@ See the Week 2 assignment in your course for details.
 If students upload their summary reports, they completed the DAACS assessments. We ask that you email students who have not yet done the assignment, as you normally would, using text we will provide. [Martina Hanson] will also send one separate nudge to all students as a reminder.{{< /expand >}}
 
 {{< expand "I’d like to review students’ DAACS results and feedback to guide my conversations with them. How can I access them?" >}}
- The summary reports uploaded by students will give you an overview. You can access detailed results and feedback by registering as an instructor at the UMGC DAACS website: [url]
+ The summary reports uploaded by students will give you an overview. You can access detailed results and feedback by registering as an instructor at the UMGC DAACS website: https://umgc.daacs.net/
 {{< /expand >}}
 
 {{< expand "Where can I find more information about DAACS?" >}}
-Visit us at https://docs.daacs.net for more information about DAACS. You can also contact [Darragh? Kathy?] at...
+Visit us at https://docs.daacs.net for more information about DAACS. You can also send us an email at admin@daacs.net.
 {{< /expand >}}
 
