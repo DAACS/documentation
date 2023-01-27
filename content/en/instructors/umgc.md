@@ -25,6 +25,11 @@ Students will receive credit for the Week 2 assignment by completing two tasks:
 See the Week 2 assignment in your course for details.
 {{< /expand >}}
 
+{{< expand "How can my students access their summary reports?" >}}
+Your students can download their summary report from the results page of any of the assessments. The screenshot below shows where it is located.
+<center><img src="https://docs.daacs.net/images/Download_Summary_Report.png" width = "70%" /></center>
+{{< /expand >}}
+
 {{< expand "How do we know whether students have completed DAACS? What am I expected to do if they haven’t completed it?" >}}
 If students upload their summary reports, they completed the DAACS assessments. We ask that you email students who have not yet done the assignment, as you normally would, using text we will provide. [Martina Hanson] will also send one separate nudge to all students as a reminder.{{< /expand >}}
 
