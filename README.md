@@ -2,7 +2,7 @@
 
 
 [![Website Build Status](https://github.com/DAACS/documentation/actions/workflows/blogdown.yaml/badge.svg)](https://github.com/DAACS/documentation/actions)
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 
 This repository contains the source for the DAACS documentation. The documentation is built using [Bookdown](https://bookdown.org/yihui/bookdown/) and is available at [docs.daacs.net](https://docs.daacs.net). The site uses the [Geekdocs](https://geekdocs.de) theme; the full documentation is available here: https://geekdocs.de/usage/getting-started/
 
