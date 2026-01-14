@@ -13,7 +13,7 @@ To get started, click the `CREATE ACCOUNT` link in the upper right corner and fi
 
 <center><img src="/images/screenshot_new_account_filled.png" width="90%" alt="New DAACS Account" /></center>
 
-With an instructor accunt you will have a `CLASSES` link available. You can create a new class from this page. When creating a class give it a name and select the assessments you wish to use.
+With an instructor account you will have a `CLASSES` link available. You can create a new class from this page. When creating a class give it a name and select the assessments you wish to use.
 
 <center><img src="/images/screenshot_new_class.png" width="90%" alt="New Class" /></center>
 
