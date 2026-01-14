@@ -36,6 +36,7 @@ posts_tagged_with: All posts tagged with '{{ . }}'
 
 footer_build_with: >
   <div style="font-size:9pt; line-height:9pt;">
+  Copyright 2026 DAACS. All rights reserved.
   DAACS was developed under grants <a href="https://www2.ed.gov/programs/fitw/awards.html" style='color:white;' target="_new">#P116F150077</a> and
   <a href="https://ies.ed.gov/funding/grantsearch/details.asp?ID=4549" style='color:white;' target="_new">#R305A210269</a>
   from the U.S. Department of Education. However, the contents do not necessarily represent the policy of the U.S. Department of Education,
